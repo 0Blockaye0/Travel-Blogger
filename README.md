@@ -26,4 +26,4 @@
   
 
   ## Questions:
-  If you have any questions, please feel free to contact me at chrispruiz@att.net. For more of my work, visit [Chrispruiz](https://github.com/Chrispruiz).
+  If you have any questions, please feel free to contact me at blake.austin.dev@gmail.com . For more of my work, visit [Blake Johnson](https://github.com/0Blockaye0).
