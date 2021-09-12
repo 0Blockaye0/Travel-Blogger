@@ -8,7 +8,7 @@
  Note: Users cannot upload photos at this time. This feature will be added in future deployments.
  
  ## Deployed Link
- ![Click ME I'm Live!!](https://serene-tor-80949.herokuapp.com/)
+ [Click ME I'm Live!!](https://serene-tor-80949.herokuapp.com/)
  
  ![Screenshot](./assets/images/screenshot.png)
   ## Table of Contents
